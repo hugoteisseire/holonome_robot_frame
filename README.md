@@ -1,7 +1,8 @@
 # holonome_robot_frame
 here is all useful thing we found while making an holonome frame for our robot
 
-some resources Idée et ressource CDF 2024 
+some resources 
+
 
 
 
